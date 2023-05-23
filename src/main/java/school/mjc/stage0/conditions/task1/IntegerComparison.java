@@ -4,8 +4,15 @@ public class IntegerComparison {
     public static void main(String[] args) {
         int x = 50;
         int y = 50;
-        __ (x __ y) {
+    if (x == y) {
             System.out.println("Hello, World!");
         }
     }
 }
+
+
+
+
+
+
+//Fill the gaps in the code snippet so that the program compiles and prints: "Hello, World!"
